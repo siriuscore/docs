@@ -1,2 +1,2 @@
-# docs
-Documentation for developers and users.
+# Sirius Documentation
+Under construction.
