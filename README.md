@@ -1,2 +1,2 @@
-# Sirius Documentation
-Under construction.
+# Initial page
+
