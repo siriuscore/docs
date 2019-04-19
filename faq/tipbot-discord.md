@@ -1,8 +1,4 @@
----
-description: How do I use the Discord TipBot?
----
-
-# TipBot \(Discord\)
+# How do I use the Discord TipBot?
 
 ## Information
 
