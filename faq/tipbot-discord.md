@@ -1,3 +1,7 @@
+---
+description: Sirius (SIRX) Discord TipBot
+---
+
 # How do I use the Discord TipBot?
 
 ## Information
