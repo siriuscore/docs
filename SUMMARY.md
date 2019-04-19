@@ -4,5 +4,5 @@
 
 ## FAQ
 
-* [TipBot \(Discord\)](fag/tipbot-discord.md)
+* [TipBot \(Discord\)](faq/tipbot-discord.md)
 
