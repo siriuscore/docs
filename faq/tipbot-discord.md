@@ -8,11 +8,11 @@ description: Sirius (SIRX) Discord TipBot
 
 Tips, in **Sirius \(SIRX\)**, are an integral part of our community because they allow us to reward members for their contributions - whether that's for sharing something insightful, providing feedback, completing bounties, testing our various apps or helping promote Sirius vision and technology.
 
-You can earn them, share, or transfer them via simple commands on the Discord server by interacting with the TipBot.
+You can earn them, share, or transfer them through simple commands on the [**Discord**](https://discord.getsirius.io/) server by interacting with the TipBot.
 
-It is important to note that the SIRX stored as a result of a tip is tied to your Discord account username and are stored on SIRX's wallet server. It is your responsibility to withdraw the tips to your Sirius Core wallet. If you plan on storing SIRX on the Discord server, it is a good idea to enable Two Factor Authentication \(2FA\) on your account. The Sirius Team takes no responsibility for lost funds due to negligence.
+It is important to note that the Sirius stored as a result of a tip is tied to your Discord account username and are stored on Sirius wallet server. It is your responsibility to withdraw the tips to your Sirius Core wallet. If you plan on storing SIRX on the Discord server, it is a good idea to enable [Two Factor Authentication \(2FA\)](https://authy.com) on your account. The Sirius Team takes no responsibility for lost funds due to negligence.
 
-Use the following commands to make amazing things happen. We recommend running them in the `#bots-gifs-nonsense` channel, unless you are tipping someone!
+First join our [**Discord**](https://discord.getsirius.io) server, them we recommend you run the commands in the `#bots-gifs-nonsense` channel, unless you are tipping someone!
 
 ## Help
 
@@ -32,7 +32,7 @@ or
 
 ## Balance
 
-Displays the balance of your Discord SIRX wallet.
+Displays the balance of your Discord wallet.
 
 **Example:**
 
@@ -42,9 +42,9 @@ Displays the balance of your Discord SIRX wallet.
 
 ## Deposit
 
-Displays your Discord SIRX wallet address.
+Displays your Discord wallet address.
 
-Useful if you want to receive SIRXs directly to your Discord wallet.
+Useful if you want to receive Sirius directly to your Discord wallet.
 
 **Example:**
 
@@ -54,7 +54,7 @@ Useful if you want to receive SIRXs directly to your Discord wallet.
 
 ## Withdraw
 
-Use this to withdraw a chosen amount from your SIRX Discord wallet to another SIRX wallet such as the wallet in your desktop, or to an SIRX wallet on an exchange.
+Use this to withdraw a chosen amount from your Discord wallet to another Sirius wallet such as the wallet in your desktop, or to an exchange.
 
 **Arguments:**
 
@@ -66,6 +66,24 @@ Use this to withdraw a chosen amount from your SIRX Discord wallet to another SI
 
 ```text
 !tip withdraw Scewh4WQFDNTc3JvcgNAQwuoRWbRf22NkR 10
+```
+
+## Tip
+
+Want to tip someone?
+
+This will send a tip to your chosen username.
+
+**Arguments:**
+
+```text
+!tip <username> <amount>
+```
+
+**Example:**
+
+```text
+!tip @Zeta#6666 10
 ```
 
 ## Private Tips
