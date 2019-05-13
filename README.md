@@ -1,5 +1,5 @@
 ---
-Welcome to the Sirius documentation hub!
+description: Welcome to the Sirius documentation hub!
 ---
 
 #### Contribute to this documentation
